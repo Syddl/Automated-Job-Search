@@ -1,0 +1,15 @@
+.hunt/
+board.html
+__pycache__/
+
+# Personal: stays on this PC, never in the public repo
+jobs.json
+facts.md
+answers.md
+profiles.md
+resume.html
+*Resume*.pdf
+build_resume.py
+check_profiles.py
+docs/superpowers/plans/
+docs/run
